@@ -1,0 +1,11 @@
+body{
+    background-color: aquamarine;
+}
+
+#sender{
+  float: left;
+ }
+
+ #receiver{
+    float: right;
+   }
